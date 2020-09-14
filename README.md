@@ -8,4 +8,5 @@
 
 # 食材の更新，削除　
 登録してある食材の更新，削除を行うことができる．
-![update](https://github.com/kimura-12/SMF/blob/master/assets/update.png)
+![update](https://github.com/kimura-12/SMF/blob/master/assets/update.png) 
+
